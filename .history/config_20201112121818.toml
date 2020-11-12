@@ -9,7 +9,11 @@ name = "Acceuil"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "compétences"
+name = "Mon Histoire"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Mes compétences"
 url = "#service"
 weight = 3
 [[menu.main]]
@@ -23,11 +27,11 @@ weight = 5
 [[menu.main]]
 name = "Blog"
 url = "#blog"
-weight = 2
+weight = 6
 [[menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 9
+weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]

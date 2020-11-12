@@ -9,6 +9,10 @@ name = "Acceuil"
 url = "#home"
 weight = 1
 [[menu.main]]
+name = "Mon Histoire"
+url = "#about"
+weight = 8
+[[menu.main]]
 name = "compétences"
 url = "#service"
 weight = 3
