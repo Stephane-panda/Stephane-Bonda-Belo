@@ -85,3 +85,8 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
