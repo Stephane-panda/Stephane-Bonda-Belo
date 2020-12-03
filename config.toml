@@ -1,4 +1,4 @@
-baseURL = "http://stephane.bondabelo.ch"
+baseURL = "https://stephane-panda.github.io/Stephane-Bonda-Belo/"
 languageCode = "fr-fr"
 paginate = 6
 theme = "yro"
@@ -50,17 +50,16 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Stephane bonda belo 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Vevey, 1800"
+email = "stephane.bondabelo@heig-vd.ch"
+phone = "+41 78 921 7384"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -78,13 +77,9 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-instagram-square"
+url = "https://www.instagram.com/"
 weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
 
 
 [taxonomies]
