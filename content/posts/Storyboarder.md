@@ -1,7 +1,9 @@
 ---
 title: "Machinegunkelly"
 date: 2020-12-03T08:27:05+01:00
-draft: true
+featureImage: images/allpost/allPost-3.jpg
+postImage: images/single-blog/feature-image.jpg
+draft: false
 ---
 
 # les storyboard 3d 
