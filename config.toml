@@ -13,13 +13,6 @@ name = "compétences"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Portfolio"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Cv"
-url = "#resume"
-weight = 5
 [[menu.main]]
 name = "Blog"
 url = "#blog"
@@ -29,23 +22,7 @@ name = "Contact"
 url = "#contact"
 weight = 9
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+
 
 [params]
 blogPageURL = "blog"
@@ -69,16 +46,12 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/st%C3%A9phane-bonda-belo-34106b134/"
 weight = 2
 [[params.social]]
 icon = "fa-instagram-square"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/stephane.panda/"
 weight = 3
 
 

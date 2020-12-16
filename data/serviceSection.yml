@@ -1,45 +1,34 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Mes domaines de compétances
 title: >
-  ## Creative Services
+  ## Services Créatif
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Mon profile polyvalent me permet d'être engager seul dans une petit entreprise ou Compéter plusieurs domaine dans une équipe.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Création Visuel 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Mes compétances de Technicien vidéo, de phtographe et de graphisme me permettent d'être à l'aise dans tout les formes de création visuel.
+
+
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Communication et marketing  
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Mon expérience et ma formation me place comme un spécialiste junior de la communication et du marketing numérique. 
+      
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Web 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Ma formation d'ingénieure des médias me permet de comprendre l'ensemble des enjeux lié au web.
+      Mes compétences joue un rôle clés dans le pilotage de projet destiné au web. 
+      je peux dans le cas échant réalié des sites, des applications et résoudre des problèmes informatiques. 
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Gestion d'équipe et de projet 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Mon expérience fournie dans l'événementiel me rendent particulièrement à même de travaillé dans l'organisation d'événement ou de projet. 
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+  
