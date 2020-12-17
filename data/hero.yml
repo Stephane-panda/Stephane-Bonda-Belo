@@ -4,9 +4,9 @@ topTitle: Hello, Moi c'est Stéphane
 content: >
   # je suis ingénieur des médias
 
-  je travail dans la communication, le marketing et la technique du spectacle dans la conception que la réalisation.
+  je travail dans la communication, le marketing et la technique du spectacle autant dans la conception que la réalisation.
 buttonName: Contactez-moi
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.jpg
-videoURL: https://www.youtube.com/embed/uvMy0J_kWcE 
+videoURL: <iframe width="560" height="315" src="https://www.youtube.com/embed/uvMy0J_kWcE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
