@@ -6,7 +6,7 @@ postImage: images/single-blog/images.png
 draft: false
 ---
 
-# les storyboard 3d 
+# les storyboard 
 Les storyboards sont parfois la bête noire des réalisateurs. Difficile d'exprimer clairement ce qu'on veut pour ceux qui ne savent pas dessiner. La peur de perdre du temps.
 !(images/single-blog/images.png)[storyboard]
 
