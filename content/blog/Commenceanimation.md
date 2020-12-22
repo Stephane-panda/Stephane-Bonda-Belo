@@ -1,8 +1,8 @@
 ---
 title: "Commencé l'animation"
 date: 2020-11-12T12:02:45+01:00
-featureImage: images/allpost/allPost-3.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/Screenshot_3.jpg
+postImage: images/single-blog/Screenshot_3.jpg
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Machinegunkelly"
 date: 2020-12-03T08:27:05+01:00
-featureImage: images/allpost/allPost-3.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/Screenshot_4.jpg
+postImage: images/single-blog/Screenshot_5.jpg
 draft: true
 ---
 
