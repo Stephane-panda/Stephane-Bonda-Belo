@@ -3,7 +3,7 @@ title: "Commencé l'animation"
 date: 2020-11-12T12:02:45+01:00
 featureImage: images/allpost/allPost-3.jpg
 postImage: images/single-blog/feature-image.jpg
-draft: false
+draft: true
 ---
 
 # Comment se lancer dans l’animation

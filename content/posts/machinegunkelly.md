@@ -3,7 +3,7 @@ title: "Machinegunkelly"
 date: 2020-12-03T08:27:05+01:00
 featureImage: images/allpost/allPost-3.jpg
 postImage: images/single-blog/feature-image.jpg
-draft: false
+draft: true
 ---
 
 # le faux live dans l'industrie des clip
