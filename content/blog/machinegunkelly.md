@@ -21,6 +21,6 @@ Simplement pour ne pas voir les caméramans dans les plans aux drones et, mais a
 ## Le direct dans tout ça ?!
 La majeure partie des Lives ne sont pas en direct. Le direct implique une infrastructure supplémentaire de régie vidéo et que chaque caméra soie relié à un câble HDMI très encombrant pour certains types de mouvement. 
 
-#ce qu’il faut retenir 
+## ce qu’il faut retenir 
 
 Un faux direct permet de ne pas se casser la tête et d’avoir un concept qui tient la route permettant des défauts à l’image en proposant un côté vrai à la performance. 
